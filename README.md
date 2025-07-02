@@ -2,6 +2,10 @@
 
 Este é um projeto de sistema embarcado para detecção de objetos, ideal para aplicações como bengalas inteligentes ou sistemas de alerta de proximidade.
 
+## Diagrama do Circuito
+
+![Diagrama do Circuito](circuit.png)
+
 ## Arquivos
 
 - `circuit.png`: Diagrama do circuito eletrônico utilizado no projeto.
